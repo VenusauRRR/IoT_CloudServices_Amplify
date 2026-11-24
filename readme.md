@@ -8,6 +8,8 @@ Lambda-funktionen skickar även regelbundna notiser till Discord, förutsatt att
 
 Säkerheten säkerställs genom X.509-enhetscertifikat, AWS IoT-policyer och TLS-kryptering.
 
+Amplify url: https://master.d33olrgbgk9j91.amplifyapp.com/
+
 ```mermaid
 flowchart TD
     A["ESP32 + DHT11"] --> |wifi| M["Internet"]
