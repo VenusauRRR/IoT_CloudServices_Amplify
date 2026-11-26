@@ -25,3 +25,7 @@ flowchart TD
     N["AWS IoT Policy"] --> |device authorization|B
     O["X.509 Device Certificate"] --> |device authentication|B
 ```
+
+## Screenshots
+
+<img src="AmplifyGraph.png" height="200" alt="AmplifyGraph" /> <img src="DiscordMsg.png" height="200" alt="DiscordMessage" />
